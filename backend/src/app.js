@@ -18,6 +18,12 @@ app.use('/api', apiRoutes);
 
 
 
+// swagger setup
+
+
+
+
+
 
 
 

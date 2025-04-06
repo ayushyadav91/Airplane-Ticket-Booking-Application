@@ -1,4 +1,7 @@
-const dotenv = require('dotenv');
-dotenv.config();
+module.exports = {
+    LogFile: require('./logger.config'),
+}
+
+
 
 
